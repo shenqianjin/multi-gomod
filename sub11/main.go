@@ -9,6 +9,6 @@ func Sub11Func1() {
 	fmt.Println("sub11.Func1")
 }
 
-func Sub11Fun2() {
+func Sub11Func2() {
 	fmt.Println("sub11.Func2")
 }
